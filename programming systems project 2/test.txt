@@ -1,0 +1,10 @@
+worker repeat 1000; increment 5; msleep 1
+worker repeat 1000; increment 5; msleep 2
+worker repeat 1000; increment 5; msleep 3
+worker repeat 1000; increment 5; msleep 4
+worker repeat 1000; increment 5; msleep 5
+worker repeat 1000; increment 5; msleep 6
+worker repeat 1000; increment 5; msleep 7
+worker repeat 1000; increment 5; msleep 8
+worker repeat 1000; increment 5; msleep 9
+worker repeat 1000; increment 5; msleep 10
